@@ -12,7 +12,7 @@ Learn Python from the fundamentals up to building real-world applications, APIs,
 
 ### 🐣 Phase 1 — Python Fundamentals
 
-* [/ ] Python Setup
+* [ ] Python Setup
 * [ ] Syntax
 * [ ] Variables
 * [ ] Data Types
