@@ -18,5 +18,5 @@ print(f"Total Cost: ${TotalCost:.2f}")
 print(f"Change: ${Change:.2f}")
 if Inefficient:
     print("Insufficient cash provided. Please provide enough cash to cover the total cost.")
-if Inefficient:
     print(f"You need to pay an additional: ${needToPay:.2f}")
+    
